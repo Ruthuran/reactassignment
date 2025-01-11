@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactassignment/static/css/main.19bf8306.css",
+    "main.js": "/reactassignment/static/js/main.b936ab25.js",
+    "static/js/488.ecbf813a.chunk.js": "/reactassignment/static/js/488.ecbf813a.chunk.js",
+    "static/media/fa-solid-900.ttf": "/reactassignment/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/reactassignment/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/reactassignment/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/reactassignment/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/reactassignment/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/reactassignment/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/reactassignment/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/reactassignment/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/reactassignment/index.html",
+    "main.19bf8306.css.map": "/reactassignment/static/css/main.19bf8306.css.map",
+    "main.b936ab25.js.map": "/reactassignment/static/js/main.b936ab25.js.map",
+    "488.ecbf813a.chunk.js.map": "/reactassignment/static/js/488.ecbf813a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19bf8306.css",
+    "static/js/main.b936ab25.js"
+  ]
+}
