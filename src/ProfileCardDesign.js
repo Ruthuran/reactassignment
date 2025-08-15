@@ -25,7 +25,7 @@ const ProfileCardDesign = () => {
       name: 'Ethan Marcotte ',
       description:
         'Ethan Marcotte is a web designer, speaker, and author. He perhaps best known for creating responsive web design, which helped the industry discover a new way of designing for the ever-changing web.',
-      image: 'https://www.k2bindia.com/wp-content/uploads/2017/06/ethan-marcotte-v1.jpg',
+      image: 'https://live.staticflickr.com/7389/9451110131_33314dff9b_z.jpg',
       background: 'https://static.vecteezy.com/system/resources/previews/029/771/417/large_2x/epicgraphy-shot-of-rainy-season-background-enjoying-nature-rainfall-and-happy-life-concept-generative-ai-free-photo.jpeg',
     },
     {
