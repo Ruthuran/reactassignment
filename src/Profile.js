@@ -6,7 +6,7 @@ const ProfileCard = ({ name, description, image, background }) => {
       <div
         className="card-img-top"
         style={{
-          height: '150px',
+          height: '100px',
           backgroundImage: `url(${background})`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
