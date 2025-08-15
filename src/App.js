@@ -4,7 +4,8 @@ import './ProfileCard.css';
 
 const App = () => {
   return (
-    <div>
+    <div className="profile-container">
+      <h2 className="topic">My Profile</h2>
       <ProfileCardDesign />
     </div>
   );
