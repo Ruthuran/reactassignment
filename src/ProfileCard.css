@@ -52,22 +52,22 @@ body {
 }
   
 .card-img-top {
-    height: 150px;
+    height: 140px; /* Slightly smaller for tighter layout */
     background-size: cover;
     background-position: center;
 }
   
 .card-body {
-    padding: 20px;
+    padding: 18px; /* Slightly reduced padding */
     background-color: white;
 }
   
 .card-body .rounded-circle {
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     overflow: hidden;
-    margin-top: -50px;
-    border: 5px solid white;
+    margin-top: -60px; /* Pulls profile image up */
+    border: 4px solid white;
 }
   
 .card-body .rounded-circle img {
@@ -77,19 +77,22 @@ body {
 }
   
 .card-title {
-    font-size: 1.7rem;
+    font-size: 1.6rem;
     font-weight: bold;
     color: #333;
+    margin-bottom: 10px;
 }
   
 .card-text {
-    font-size: 1rem;
+    font-size: 0.95rem;
     color: #777;
+    margin-bottom: 15px;
 }
   
 .card-body i {
-    font-size: 1.5rem;
-    margin: 0 10px;
+    font-size: 1.4rem;
+    margin: 0 8px;
+    cursor: pointer;
 }
   
 .card-body i:hover {
