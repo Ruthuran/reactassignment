@@ -8,7 +8,7 @@ const ProfileCardDesign = () => {
       name: 'Tim Berners-Lee',
       description:
         'Tim Berners-Lee is a British computer scientist who invented the World Wide Web in 1989 while working at CERN. His creation of HTML, HTTP, and the first web revolutionized how we access and share information online.',
-      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeMzlchhwUvRXF-LEmGeXeF0Gw2aFT_4RGmQ&s',
+      image: '',
       background: 'https://wallpaperaccess.com/full/5101318.jpg',
     },
     {
